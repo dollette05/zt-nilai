@@ -1,6 +1,7 @@
 # Sistem Nilai: Zero Trust Security
 
 Tugas Praktikum Keamanan Informasi (KP70065004), Informatika Universitas Siliwangi.
+Naura Aulia Putri, 247006111002
 Stack: Node.js 18+ (diuji di 22), Express, http-proxy-middleware, jsonwebtoken, SQLite (better-sqlite3).
 
 ## Menjalankan
